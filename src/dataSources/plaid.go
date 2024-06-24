@@ -17,8 +17,8 @@ import (
 )
 
 var (
-	PLAID_CLIENT_ID                      = "64b714f4ef4079001a89cc37"
-	PLAID_SECRET                         = "c56e69aa35b641d03481508a5502ef"
+	PLAID_CLIENT_ID                      = ""
+	PLAID_SECRET                         = ""
 	PLAID_ENV                            = ""
 	PLAID_PRODUCTS                       = "transactions"
 	PLAID_COUNTRY_CODES                  = "US"
